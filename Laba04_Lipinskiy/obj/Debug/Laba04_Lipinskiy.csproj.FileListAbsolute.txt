@@ -1,0 +1,19 @@
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\bin\Debug\Laba04_Lipinskiy.exe.config
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\bin\Debug\Laba04_Lipinskiy.exe
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\bin\Debug\Laba04_Lipinskiy.pdb
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.Form1.resources
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.Properties.Resources.resources
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.exe
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.pdb
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\bin\Debug\Laba04_Lipinskiy.exe.config
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\bin\Debug\Laba04_Lipinskiy.exe
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\bin\Debug\Laba04_Lipinskiy.pdb
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.Form1.resources
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.Properties.Resources.resources
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.exe
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.pdb
+C:\Users\dariy\Desktop\proga\Laba04_Lipinskiy\Laba04_Lipinskiy\obj\Debug\Laba04_Lipinskiy.csproj.AssemblyReference.cache
